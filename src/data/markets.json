@@ -1,0 +1,12 @@
+[
+  { "marketKey": "arequipa", "marketName": "Arequipa" },
+  { "marketKey": "cusco", "marketName": "Cusco" },
+  { "marketKey": "lima", "marketName": "Lima" },
+  { "marketKey": "puno", "marketName": "Puno" },
+  { "marketKey": "piura", "marketName": "Piura" },
+  { "marketKey": "trujillo", "marketName": "Trujillo" },
+  { "marketKey": "ica", "marketName": "Ica" },
+  { "marketKey": "huancayo", "marketName": "Huancayo" },
+  { "marketKey": "tacna", "marketName": "Tacna" },
+  { "marketKey": "chiclayo", "marketName": "Chiclayo" }
+]

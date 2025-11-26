@@ -1,0 +1,44 @@
+[
+  { "productKey": "papa_yungay", "productName": "Papa Yungay", "category": "Tubérculo", "unit": "kg", "description": "Papa de consumo masivo.", "seasonality": { "bestMonths": ["mayo","junio","julio"] } },
+  { "productKey": "papa_canchan", "productName": "Papa Canchán", "category": "Tubérculo", "unit": "kg", "description": "Papa para frituras y guisos.", "seasonality": { "bestMonths": ["abril","mayo","junio"] } },
+  { "productKey": "camote", "productName": "Camote", "category": "Tubérculo", "unit": "kg", "description": "Raíz dulce energética.", "seasonality": { "bestMonths": ["junio","julio","agosto"] } },
+  { "productKey": "yuca", "productName": "Yuca", "category": "Tubérculo", "unit": "kg", "description": "Raíz tropical rica en carbohidratos.", "seasonality": { "bestMonths": ["todo el año"] } },
+  { "productKey": "oca", "productName": "Oca", "category": "Tubérculo", "unit": "kg", "description": "Tubérculo andino.", "seasonality": { "bestMonths": ["julio","agosto"] } },
+
+  { "productKey": "maiz_choclo", "productName": "Maíz Choclo", "category": "Cereal", "unit": "kg", "description": "Maíz tierno para consumo directo.", "seasonality": { "bestMonths": ["enero","febrero"] } },
+  { "productKey": "maiz_amilaceo", "productName": "Maíz Amiláceo", "category": "Cereal", "unit": "kg", "description": "Maíz peruano de grano grande.", "seasonality": { "bestMonths": ["marzo","abril"] } },
+  { "productKey": "quinua_blanca", "productName": "Quinua Blanca", "category": "Cereal", "unit": "kg", "description": "Grano andino nutritivo.", "seasonality": { "bestMonths": ["mayo","junio"] } },
+  { "productKey": "quinua_roja", "productName": "Quinua Roja", "category": "Cereal", "unit": "kg", "description": "Variedad rica en antioxidantes.", "seasonality": { "bestMonths": ["mayo","junio"] } },
+  { "productKey": "kiwicha", "productName": "Kiwicha", "category": "Cereal", "unit": "kg", "description": "Grano andino alto en proteína.", "seasonality": { "bestMonths": ["abril","mayo"] } },
+  { "productKey": "cebada", "productName": "Cebada", "category": "Cereal", "unit": "kg", "description": "Cereal para consumo y forraje.", "seasonality": { "bestMonths": ["junio","julio"] } },
+
+  { "productKey": "cebolla_roja", "productName": "Cebolla Roja", "category": "Hortaliza", "unit": "kg", "description": "Hortaliza base en cocina.", "seasonality": { "bestMonths": ["todo el año"] } },
+  { "productKey": "cebolla_blanca", "productName": "Cebolla Blanca", "category": "Hortaliza", "unit": "kg", "description": "Cebolla suave para ensaladas.", "seasonality": { "bestMonths": ["todo el año"] } },
+  { "productKey": "tomate", "productName": "Tomate", "category": "Hortaliza", "unit": "kg", "description": "Fruto-hortaliza de alta demanda.", "seasonality": { "bestMonths": ["marzo","abril","mayo"] } },
+  { "productKey": "zanahoria", "productName": "Zanahoria", "category": "Hortaliza", "unit": "kg", "description": "Raíz rica en vitamina A.", "seasonality": { "bestMonths": ["todo el año"] } },
+  { "productKey": "lechuga", "productName": "Lechuga", "category": "Hortaliza", "unit": "kg", "description": "Hortaliza fresca para ensaladas.", "seasonality": { "bestMonths": ["todo el año"] } },
+  { "productKey": "brocoli", "productName": "Brócoli", "category": "Hortaliza", "unit": "kg", "description": "Hortaliza rica en fibra.", "seasonality": { "bestMonths": ["junio","julio"] } },
+  { "productKey": "coliflor", "productName": "Coliflor", "category": "Hortaliza", "unit": "kg", "description": "Hortaliza de clima templado.", "seasonality": { "bestMonths": ["julio","agosto"] } },
+  { "productKey": "ajo", "productName": "Ajo", "category": "Hortaliza", "unit": "kg", "description": "Condimento de alto valor.", "seasonality": { "bestMonths": ["septiembre","octubre"] } },
+  { "productKey": "pimiento", "productName": "Pimiento", "category": "Hortaliza", "unit": "kg", "description": "Hortaliza para guisos.", "seasonality": { "bestMonths": ["abril","mayo"] } },
+  { "productKey": "beterraga", "productName": "Beterraga", "category": "Hortaliza", "unit": "kg", "description": "Raíz dulce rica en hierro.", "seasonality": { "bestMonths": ["todo el año"] } },
+
+  { "productKey": "palta_hass", "productName": "Palta Hass", "category": "Fruta", "unit": "kg", "description": "Fruta exportable de alta demanda.", "seasonality": { "bestMonths": ["mayo","junio","julio"] } },
+  { "productKey": "naranja_valencia", "productName": "Naranja Valencia", "category": "Fruta", "unit": "kg", "description": "Cítrico dulce.", "seasonality": { "bestMonths": ["julio","agosto"] } },
+  { "productKey": "mandarina", "productName": "Mandarina", "category": "Fruta", "unit": "kg", "description": "Cítrico de invierno.", "seasonality": { "bestMonths": ["junio","julio"] } },
+  { "productKey": "platano", "productName": "Plátano", "category": "Fruta", "unit": "kg", "description": "Fruta tropical básica.", "seasonality": { "bestMonths": ["todo el año"] } },
+  { "productKey": "mango", "productName": "Mango", "category": "Fruta", "unit": "kg", "description": "Fruta tropical de verano.", "seasonality": { "bestMonths": ["enero","febrero"] } },
+  { "productKey": "granadilla", "productName": "Granadilla", "category": "Fruta", "unit": "kg", "description": "Fruta andina aromática.", "seasonality": { "bestMonths": ["abril","mayo"] } },
+  { "productKey": "fresa", "productName": "Fresa", "category": "Fruta", "unit": "kg", "description": "Fruta delicada de alto valor.", "seasonality": { "bestMonths": ["septiembre","octubre"] } },
+  { "productKey": "uva", "productName": "Uva", "category": "Fruta", "unit": "kg", "description": "Fruta de Ica y costa.", "seasonality": { "bestMonths": ["febrero","marzo"] } },
+
+  { "productKey": "arveja", "productName": "Arveja Verde", "category": "Legumbre", "unit": "kg", "description": "Legumbre de clima frío.", "seasonality": { "bestMonths": ["junio","julio"] } },
+  { "productKey": "haba", "productName": "Haba", "category": "Legumbre", "unit": "kg", "description": "Legumbre andina.", "seasonality": { "bestMonths": ["mayo","junio"] } },
+  { "productKey": "frejol_canario", "productName": "Frejol Canario", "category": "Legumbre", "unit": "kg", "description": "Frejol amarillo de alto consumo.", "seasonality": { "bestMonths": ["abril","mayo"] } },
+  { "productKey": "lenteja", "productName": "Lenteja", "category": "Legumbre", "unit": "kg", "description": "Grano seco nutritivo.", "seasonality": { "bestMonths": ["todo el año"] } },
+
+  { "productKey": "arroz", "productName": "Arroz", "category": "Otros", "unit": "kg", "description": "Grano básico nacional.", "seasonality": { "bestMonths": ["todo el año"] } },
+  { "productKey": "cafe", "productName": "Café", "category": "Otros", "unit": "kg", "description": "Producto de selva alta.", "seasonality": { "bestMonths": ["mayo","junio"] } },
+  { "productKey": "cacao", "productName": "Cacao", "category": "Otros", "unit": "kg", "description": "Materia prima para chocolate.", "seasonality": { "bestMonths": ["abril","mayo"] } },
+  { "productKey": "azucar", "productName": "Caña de Azúcar", "category": "Otros", "unit": "kg", "description": "Producto de costa norte.", "seasonality": { "bestMonths": ["todo el año"] } }
+]
