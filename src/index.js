@@ -1,23 +1,24 @@
 import express from "express";
 import cors from "cors";
+import dotenv from "dotenv";
 
-import productsRoutes from "./routes/products.routes.js";
 import climaRoutes from "./routes/clima.routes.js";
+import productsRoutes from "./routes/products.routes.js";
+import testRoutes from "./routes/test.routes.js";  // 👈 NUEVO
+
+dotenv.config();
 
 const app = express();
 app.use(cors());
-app.use(express.json());
+app.use(express.json()); // ✅ IMPORTANTE para leer JSON en POST
 
 // rutas
-app.use("/products", productsRoutes);
-app.use("/clima", climaRoutes);
+app.use("/", climaRoutes);
+app.use("/", productsRoutes);
+app.use("/", testRoutes); // 👈 NUEVO
 
-// health check
-app.get("/", (req, res) => {
-  res.json({ ok: true, msg: "AgroSmart API running ✅" });
+const PORT = process.env.PORT || 10000;
+
+app.listen(PORT, () => {
+  console.log(`✅ AgroSmart API ready on http://localhost:${PORT}`);
 });
-
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () =>
-  console.log(`✅ AgroSmart API ready on http://localhost:${PORT}`)
-);
